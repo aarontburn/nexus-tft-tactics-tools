@@ -1,13 +1,17 @@
 {
-    "name": "Sample Web Browser Module",
-    "id": "developer.Sample_Web_Module",
-    "author": "developer",
+    "name": "tactics.tools",
+    "id": "aarontburn.Tactics_Tools",
+    "author": "aarontburn",
     "version": "1.0.0",
-    "description": "A developer template to embed websites within Nexus.",
-    "build-version": 1,
+    "description": "Embed tactics.tools for quick TFT lookups",
     "platforms": [],
-    "link": "https://github.com/aarontburn/nexus-template-webpage",
+    "link": "https://github.com/aarontburn/nexus-tft-tactics-tools",
+    "git-latest": {
+        "git-username": "aarontburn",
+        "git-repo-name": "nexus-tft-tactics-tools"
+    },
     "build": {
+        "build-version": 1,
         "excluded": [
             "electron.ts"
         ],
