@@ -2,7 +2,8 @@
     "name": "tactics.tools",
     "id": "aarontburn.Tactics_Tools",
     "author": "aarontburn",
-    "version": "1.0.0",
+    "author-id": "683193056e5989838dcf772c",
+    "version": "1.0.1",
     "description": "Embed tactics.tools for quick TFT lookups",
     "platforms": [],
     "link": "https://github.com/aarontburn/nexus-tft-tactics-tools",
@@ -11,7 +12,7 @@
         "git-repo-name": "nexus-tft-tactics-tools"
     },
     "build": {
-        "build-version": 1,
+        "build-version": 2,
         "excluded": [
             "electron.ts"
         ],
